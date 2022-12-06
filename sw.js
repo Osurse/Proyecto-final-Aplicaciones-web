@@ -19,6 +19,7 @@ self.addEventListener('install', e=>{
             'videos/Mario.mp4',
             'videos/ports.mp4',
             'videos/nintendo.mp4',
+            'https://www.youtube.com/embed/0Fczs-bWmvM',
             
         ])
     });
